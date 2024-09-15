@@ -16,4 +16,8 @@ class testcalc(SimpleTestCase):
         result = calc.substract(15,10)
         self.assertEqual(result, 5)
 
-        
+
+
+
+
+
