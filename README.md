@@ -7,4 +7,4 @@ the milestones of a project
 5)Django user model configuration (Writing tests for it in advance)
 6)Django admin page configuration & customization
 7)Setting things up for future API documentation 
-8)
+8)User API Development
