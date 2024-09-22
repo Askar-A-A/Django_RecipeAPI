@@ -8,3 +8,4 @@ the milestones of a project
 6)Django admin page configuration & customization
 7)Setting things up for future API documentation 
 8)User API Development
+9)
